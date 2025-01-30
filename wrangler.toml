@@ -1,5 +1,4 @@
-name = "sub"
+name = "wispy-boat-fb50"
 main = "src/worker.ts"
 compatibility_date = "2024-05-29"
 compatibility_flags = ["nodejs_compat"]
-
